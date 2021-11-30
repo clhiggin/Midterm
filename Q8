@@ -1,0 +1,21 @@
+//Student Class//
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Midterm_Q8
+{
+    class Student
+    {
+        public int Age { get; set; }
+
+        public Student()
+        {
+            Age = 24;
+        }
+    public void Print()
+        {
+            Console.WriteLine("Age=" + Age );
+        }
+    }
+}
