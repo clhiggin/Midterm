@@ -19,3 +19,22 @@ namespace Midterm_Q8
         }
     }
 }
+
+//Program Class//
+using System;
+
+namespace Midterm_Q8
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var student = new Student();
+            student.Print();
+            student.Age = 36;
+            student.Print();
+        }
+      
+    }
+}
+
