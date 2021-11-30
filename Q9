@@ -1,0 +1,9 @@
+--DCL - Control Statements
+
+INSERT INTO EmployeeMaster (Id, Name, DOB, Salary, Location) VALUES (1, 'John', '1978/1/1', '4000.89', 'MI')
+
+Select * from EmployeeMaster
+
+--DML - Data Manipulation Location
+
+DELETE from EmployeeMaster where id=2
