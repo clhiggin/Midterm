@@ -1,2 +1,2 @@
 # Midterm
-//Contains answer midterm
+//Contains answers to midterm
